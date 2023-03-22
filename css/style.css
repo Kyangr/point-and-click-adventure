@@ -25,9 +25,24 @@ body{
     top: 151px;
 }
 
+#statue{
+    width: 38px;
+    height: 72px;
+    left: 95px;
+    top: 8px;
+}
+
+#grave1{
+    width: 26px;
+    height: 45px;
+    left: 19px;
+    top: 45px;
+}
+
 .gameObject{
     position: absolute;
     transition: all 1s ease-in-out;
+    background-color: #fff;
 }
 
 .foreground{
